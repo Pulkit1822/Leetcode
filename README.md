@@ -2,11 +2,12 @@
   <a href="https://github.com/Pulkit1822/Leetcode-Practise">
     <img src="https://github.com/Pulkit1822/Leetcode-Practise/blob/main/LeetCode.png" height="128">
   </a>
-  <h1 align="center">LeetCode Practice</h1>
+  <h1 align="center">LeetCode</h1>
 </p>
+
 ## Overview
 
-Welcome to my personal LeetCode Daily Challenge Solutions repository! This is where I share my daily solutions for the LeetCode problems. I'm committed to updating this repository regularly with new solutions as I tackle the daily challenges. It's not just a coding journey; it's a commitment to continuous improvement.
+Welcome to my personal LeetCode repository! This is where I share my solutions for the LeetCode problems. 
 
 Feel free to explore the solutions, provide feedback, and use them as a reference to enhance your own coding skills.
 
